@@ -241,10 +241,6 @@ The project includes tests for:
 - Include tests for new features
 - Update documentation as needed
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🆘 Support & Documentation
 
 ### Getting Help
